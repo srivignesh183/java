@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //java program to print the age
-/*Author is Arun
+/*Author is sri vignesh
 *Date=09.07.2025
 */
 public class Main
